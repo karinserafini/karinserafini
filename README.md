@@ -1,4 +1,4 @@
-### Olá!! sou a Karin Serafini, estudando de programação 👋
+### Olá!! sou a Karin Serafini, estudante de programação 👋
 
 <div align="center">
   <a href="https://github.com/karinserafini">
