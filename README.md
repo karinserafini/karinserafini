@@ -25,6 +25,6 @@
  
 </div>
 
-- 🔭 Hoje atuo como auxiliar de suporte
-- 🌱 Estou aprendendo Javascript
+- 🔭 Hoje atuo como desenvolvedora Web
+- 🌱 Estou aprendendo Vue.js PHP
 - 😄 Pronomes: ela/dela
